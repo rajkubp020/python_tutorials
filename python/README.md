@@ -1,6 +1,6 @@
 # Python tutorials
 
-This is a ipython file repository for python tutorials.
+This is a python notebook repository for python tutorials.
 
 # Contents:
 
