@@ -3,7 +3,7 @@
 
 ## Most* safe way is to use Anaconda package manager.
 
-+ **The Most Popular Python Data Science Platform**
++ **The Most* Popular Python Data Science Platform**
 + **Easy to use and do not interfare with native python**
 
 ## Download for your OS from here.
@@ -21,3 +21,6 @@ http://docs.anaconda.com/anaconda/install/windows/
 ## Installing on macOS
 
 http://docs.anaconda.com/anaconda/install/mac-os/
+
+
+* may or may not be
